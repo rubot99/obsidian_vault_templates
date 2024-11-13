@@ -1,36 +1,24 @@
 {
   "main": {
-    "id": "49e161f22e6644b6",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "e4566dbd1b3518f1",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "cf11fc084e5f0497",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e1d944a5b6e57e32",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "35dbf5b4ead48687",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "01-Dashboard"
             }
           }
         ]
@@ -100,11 +88,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c4c255e2d134ec8e",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          },
+          {
             "id": "7e28dad40a64bddd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024/11/2024-11-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2024-11-13"
             }
           },
           {
@@ -123,11 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024/11/2024-11-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2024-11-13"
             }
           },
           {
@@ -149,28 +149,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Daily/2024/11/2024-11-13.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
-            }
-          },
-          {
-            "id": "c4c255e2d134ec8e",
-            "type": "leaf",
-            "state": {
-              "type": "journal-calendar",
-              "state": {},
-              "icon": "calendar-days",
-              "title": "Calendar"
+              "title": "Outline of 2024-11-13"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +169,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "1f8de23257a8b0d2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Dashboard.canvas",
+    "Daily/2024/11/2024-11-13.md",
+    "01-Dashboard.md",
+    "Daily/2024/11",
+    "Daily/2024",
+    "templates/daily note template.md",
+    "Private",
+    "One-One",
+    "Notes",
+    "Archive",
+    "Daily",
+    "Welcome.md",
+    "templates"
   ]
 }
