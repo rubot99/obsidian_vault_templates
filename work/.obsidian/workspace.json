@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "c0151c806a82e6be",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "178e00cd7b93c86b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,11 +173,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "178e00cd7b93c86b",
   "lastOpenFiles": [
     "Dashboard.canvas",
-    "Daily/2024/11/2024-11-13.md",
     "01-Dashboard.md",
+    "Daily/2024/11/2024-11-13.md",
+    "Daily/2024/11/2024-11-14.md",
     "Daily/2024/11",
     "Daily/2024",
     "templates/daily note template.md",
